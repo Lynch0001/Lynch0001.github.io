@@ -11,6 +11,7 @@
 I retired from the Army in June 2019 where I was a strategic plans and policy officer. I plan on transitioning to an entry level developer role after Labor Day 2020. Since leaving the Army, I have explored Python, Java and C++. I'm most comfortable with Java and Spring tied to Angular. On the frontend, I'm familiar with HTML, CSS and javascript.  I'm also familiar with Maven, but not Gradle.  I'm starting to explore Spring micro services and looking forward to getting into D3 and GIS charting. I am a lifelong learner and curious about most things. Really interested in international relations, history (particularly military history), and science (astronomy mostly but also interested in physics and chemistry). Live in Reston, Virginia with my wife, son and labradoodle.
 
 # Projects
+<p>Each project respresents an opportunity for me to explore some topic of interest; expand the depth and breadth of my understaning of somer useful or interesting technologies; and demonstrate at least a basic level of understanding of software development fundamentals.</p>
 
 ## Project Task Manager
 
