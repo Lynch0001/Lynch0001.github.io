@@ -17,7 +17,7 @@ I retired from the Army in June 2019 where I was a strategic plans and policy of
 
 <p>Description: Basic web application that allows a user to manage projects/tasks built with Spring, Angular and MySQL. This was my first effort to integrate frontend, backend, and database components into a functioning application.  I wasn't concerned with security, logging or data validation at this point.
 </p>
-<p>Link to Frontend Repo:![Link](http://google.com)</p>
+<p>Link to Frontend Repo:[Link](http://google.com)</p>
 <p>Link to Backend Repo:(http://google.com)</p>
 
 ## Policy Discussion Board
