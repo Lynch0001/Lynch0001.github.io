@@ -1,13 +1,10 @@
-<p align="center>
+<p align="center">
   <img width="400" src="https://user-images.githubusercontent.com/35854692/88960161-18f3f500-d271-11ea-9579-813cdd649047.jpg" >
 </p>
-
-<div width:40% align="left" display:inline-block>
-  <h2>Tim Lynch</h2>
-  <h6>Former Army Officer and Spring-Angular Developer</h6>
+<h2 align="center">Tim Lynch</h2>
+<h6 align="center">Former Army Officer and Spring-Angular Developer</h6>
 
 ## Welcome to my GitHub page!
-</div>
 
 ### About Me
 
