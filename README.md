@@ -21,14 +21,14 @@ I retired from the Army in June 2019 where I was a strategic plans and policy of
 
 ## Policy Discussion Board
 
-<p>Description: 
+<p>Description: This is a more complete single-page application that allows a user to .  It is built with Spring, Angular and MySQL. This was my first effort to integrate frontend, backend, and database components into a functioning application.  I wasn't concerned with security, logging or data validation at this point.
 </p>
 <p>Link to Frontend Repo:(http://google.com)</p>
 <p>Link to Backend Repo:(http://google.com)</p>
 
 ## ExoPlanet Data Explorer
 
-<p>Description: 
+<p>Description: Web application that allows users to view data from the NASA Exoplanet Data Archive( Roughly 4000 planets that have been identified outside of our solar system). It is built with Spring, Angular and PostgreSQL. 
 </p>
 <p>Link to Frontend Repo:(http://google.com)</p>
 <p>Link to Backend Repo:(http://google.com)</p>
