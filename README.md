@@ -6,36 +6,35 @@
 
 <h2 align="center">Welcome to my GitHub page!</h2>
 
-### About Me
+# About Me
 
 I retired from the Army in June 2019 where I was a strategic plans and policy officer. I plan on transitioning to an entry level developer role after Labor Day 2020. Since leaving the Army, I have explored Python, Java and C++. I'm most comfortable with Java and Spring tied to Angular. On the frontend, I'm familiar with HTML, CSS and javascript.  I'm also familiar with Maven, but not Gradle.  I'm starting to explore Spring micro services and looking forward to getting into D3 and GIS charting. I am a lifelong learner and curious about most things. Really interested in international relations, history (particularly military history), and science (astronomy mostly but also interested in physics and chemistry). Live in Reston with my wife, son and labradoodle.
 
-### Projects
+# Projects
 
-XXX
+## Project Task Manager
+
+<p>Description: 
+</p>
+<p>Link to Frontend Repo:(http://google.com)</p>
+<p>Link to Backend Repo:(http://google.com)</p>
+
+## Policy Discussion Board
+
+<p>Description: 
+</p>
+<p>Link to Frontend Repo:(http://google.com)</p>
+<p>Link to Backend Repo:(http://google.com)</p>
+
+## ExoPlanet Data Explorer
+
+<p>Description: 
+</p>
+<p>Link to Frontend Repo:(http://google.com)</p>
+<p>Link to Backend Repo:(http://google.com)</p>
 
 
-
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](https://user-images.githubusercontent.com/35854692/88958715-ddf0c200-d26e-11ea-8041-794a1962b5ba.jpg)
-```
-
+## What's Next
 
 
 ### Contact
