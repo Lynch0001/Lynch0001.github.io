@@ -21,7 +21,7 @@ I retired from the Army in June 2019 where I was a strategic plans and policy of
 
 ## Policy Discussion Board
 
-<p>Description: This is a more complete single-page application that allows a user to .  It is built with Spring, Angular and MySQL. This was my first effort to integrate frontend, backend, and database components into a functioning application.  I wasn't concerned with security, logging or data validation at this point.
+<p>Description: This is a more complete single-page application that allows a user to review and comment on national security issues.  It is also built with Spring, Angular and MySQL and includes basic authentication security, logging or client-side data validation.
 </p>
 <p>Link to Frontend Repo:(http://google.com)</p>
 <p>Link to Backend Repo:(http://google.com)</p>
