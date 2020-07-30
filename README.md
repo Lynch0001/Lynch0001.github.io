@@ -10,6 +10,11 @@ I retired from the Army in June 2019 where I was a strategic plans and policy of
 
 XXX
 
+<p align="center">
+  <img width="460" height="300" url="https://user-images.githubusercontent.com/35854692/88960161-18f3f500-d271-11ea-9579-813cdd649047.jpg">
+</p>
+https://user-images.githubusercontent.com/35854692/88958715-ddf0c200-d26e-11ea-8041-794a1962b5ba.jpg
+
 
 ```markdown
 Syntax highlighted code block
@@ -26,7 +31,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://user-images.githubusercontent.com/35854692/88958715-ddf0c200-d26e-11ea-8041-794a1962b5ba.jpg)
 ```
 
 
