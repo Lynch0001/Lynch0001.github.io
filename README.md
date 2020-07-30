@@ -1,6 +1,6 @@
-
-  <img width="400" src="https://user-images.githubusercontent.com/35854692/88960161-18f3f500-d271-11ea-9579-813cdd649047.jpg" style = "float: right">
-
+<p align="center>
+  <img width="400" src="https://user-images.githubusercontent.com/35854692/88960161-18f3f500-d271-11ea-9579-813cdd649047.jpg" >
+</p>
 
 <div width:40% align="left" display:inline-block>
   <h2>Tim Lynch</h2>
