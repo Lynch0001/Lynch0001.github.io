@@ -24,8 +24,8 @@ I retired from the Army in June 2019 where I was a strategic plans and policy of
 
 <p>Description: This is a more complete single-page application that allows a user to review and comment on national security issues.  It is also built with Spring, Angular and MySQL and includes basic authentication security, logging or client-side data validation.
 </p>
-<p>Link to Frontend</p> [Repo:](/PolicyDiscussionBoardFrontend)
-<p>Link to Backend</p> [Repo:](/PolicyDiscussionBoard)
+<p>Link to Frontend [Repo:](/PolicyDiscussionBoardFrontend)</p>
+<p>Link to Backend [Repo:](/PolicyDiscussionBoard)</p> 
 
 ## ExoPlanet Data Explorer
 
