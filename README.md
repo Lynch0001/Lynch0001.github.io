@@ -1,6 +1,13 @@
-## Hi, Welcome to my GitHub page!
 
-Spring-Angular Developer
+  <img width="400" src="https://user-images.githubusercontent.com/35854692/88960161-18f3f500-d271-11ea-9579-813cdd649047.jpg" style = "float: right">
+
+
+<div width:40% align="left" display:inline-block>
+  <h2>Tim Lynch</h2>
+  <h6>Former Army Officer and Spring-Angular Developer</h6>
+
+## Welcome to my GitHub page!
+</div>
 
 ### About Me
 
@@ -10,10 +17,8 @@ I retired from the Army in June 2019 where I was a strategic plans and policy of
 
 XXX
 
-<p align="center">
-  <img width="460" height="300" url="https://user-images.githubusercontent.com/35854692/88960161-18f3f500-d271-11ea-9579-813cdd649047.jpg">
-</p>
-https://user-images.githubusercontent.com/35854692/88958715-ddf0c200-d26e-11ea-8041-794a1962b5ba.jpg
+
+
 
 
 ```markdown
