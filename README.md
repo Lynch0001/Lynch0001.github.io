@@ -17,22 +17,23 @@ I retired from the Army in June 2019 where I was a strategic plans and policy of
 
 <p>Description: Basic web application that allows a user to manage projects/tasks built with Spring, Angular and MySQL. This was my first effort to integrate frontend, backend, and database components into a functioning application.  I wasn't concerned with security, logging or data validation at this point.
 </p>
-<p>Link to Frontend Repo:<a href="https://github.com/Lynch0001/PolicyDiscussionBoardFrontend">[Link]</a></p>
-<p>Link to Backend Repo:(http://google.com)</p>
+<p>Link to Frontend Repo:<a href="https://github.com/Lynch0001/ProjectTaskManagerFrontEnd">[Link]</a></p>
+<p>Link to Backend Repo:<a href="https://github.com/Lynch0001/ProjectTaskManager">[Link]</a></p>
 
 ## Policy Discussion Board
 
 <p>Description: This is a more complete single-page application that allows a user to review and comment on national security issues.  It is also built with Spring, Angular and MySQL and includes basic authentication security, logging or client-side data validation.
 </p>
-<p>Link to Frontend [Repo:](/PolicyDiscussionBoardFrontend)</p>
-<p>Link to Backend [Repo:](/PolicyDiscussionBoard)</p> 
+<p>Link to Frontend Repo:<a href="https://github.com/Lynch0001/PolicyDiscussionBoardFrontend">[Link]</a></p>
+<p>Link to Backend Repo:<a href="https://github.com/Lynch0001/PolicyDiscussionBoardFrontend">[Link]</a></p>
 
 ## ExoPlanet Data Explorer
 
 <p>Description: Web application that allows users to view data from the NASA Exoplanet Data Archive(Roughly 4000 planets that have been identified outside of our solar system). It is built with Spring, Angular and PostgreSQL. 
 </p>
 <p>Link to Frontend Repo:(http://google.com)</p>
-<p>Link to Backend Repo:(http://google.com)</p>
+<p>Link to Frontend Repo:<a href="https://github.com/Lynch0001/PolicyDiscussionBoardFrontend">[Link]</a></p>
+<p>Link to Backend Repo:<a href="https://github.com/Lynch0001/PolicyDiscussionBoardFrontend">[Link]</a></p>
 
 
 ## What's Next
