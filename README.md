@@ -39,8 +39,8 @@ I retired from the Army in June 2019 where I was a strategic plans and policy of
 
 <p>I'm planning on starting a project to build a simple bookstore app that will allow users to see availible books and reviews and to select/place books in a cart for simulated purchase.  The project is a vehicle to learn about micro services and will include a customer service, a book service, a review service, a store service and an order service.  This will focus on the backend components and NoSQL database technologies.</p>
 
-### Contact
-LinkedIn: https://www.linkedin.com/in/timothy-j-lynch/
-Email: Lynch0001@gmail.com
+## Contact
+<p>LinkedIn: https://www.linkedin.com/in/timothy-j-lynch/</p>
+<p>Email: Lynch0001@gmail.com</p>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
