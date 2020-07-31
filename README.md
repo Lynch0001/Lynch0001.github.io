@@ -20,7 +20,7 @@ I retired from the Army in June 2019 where I was a strategic plans and policy of
 <p>Link to Frontend Repo:<a href="https://github.com/Lynch0001/ProjectTaskManagerFrontEnd">[Link]</a></p>
 <p>Link to Backend Repo:<a href="https://github.com/Lynch0001/ProjectTaskManager">[Link]</a></p>
 <p align="center">
-<img width="600" src="https://user-images.githubusercontent.com/35854692/89045856-39c45500-d31a-11ea-9c9c-f3de0f114d90.PNG">
+<img width="600" src="https://user-images.githubusercontent.com/35854692/89047742-ce2fb700-d31c-11ea-8dc7-95ea4f800880.PNG">
 </p>
 ## Policy Discussion Board
 
