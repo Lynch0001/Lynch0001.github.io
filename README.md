@@ -8,7 +8,7 @@
 
 # About Me
 
-I retired from the Army in June 2019 where I was a strategic plans and policy officer. I plan on transitioning to an entry level developer role after Labor Day 2020. Since leaving the Army, I have explored Python, Java and C++. I'm most comfortable with Java and Spring tied to Angular. On the frontend, I'm familiar with HTML, CSS and javascript.  I'm also familiar with Maven, but not Gradle.  I'm starting to explore Spring micro services and looking forward to getting into D3 and GIS charting. I am a lifelong learner and curious about most things. Really interested in international relations, history (particularly military history), and science (astronomy mostly but also interested in physics and chemistry). Live in Reston, Virginia with my wife, son and labradoodle.
+I retired from the Army in June 2019 where I was a strategic plans and policy officer. I'm working towards transitioning to an entry level developer role. Since leaving the Army, I have explored Python, Java and C++. I'm most comfortable with Java and Spring tied to Angular. On the frontend, I'm familiar with HTML, CSS and javascript.  I'm also familiar with Maven, but not Gradle.  I'm starting to explore Spring micro services and looking forward to getting into D3 and GIS charting. I am a lifelong learner and curious about most things. Really interested in international relations, history (particularly military history), and science (astronomy mostly but also interested in physics and chemistry). Live in Reston, Virginia with my wife, son and labradoodle.
 
 # Projects
 <p>Each project respresents an opportunity for me to explore some topic of interest; expand the depth and breadth of my understaning of some useful or interesting technologies; and demonstrate at least a basic level of understanding of software development fundamentals.</p>
@@ -29,17 +29,18 @@ I retired from the Army in June 2019 where I was a strategic plans and policy of
 
 ## ExoPlanet Data Explorer
 
-<p>Description: Web application that allows users to view data from the NASA Exoplanet Data Archive(Roughly 4000 planets that have been identified outside of our solar system). It is built with Spring, Angular and PostgreSQL. 
+<p>Description: [Still working on this] Web application that allows users to view data fed by a CSV file from the NASA Exoplanet Data Archive(Roughly 4000 planets that have been identified outside of our solar system). It is built with Spring, Angular and PostgreSQL. 
 </p>
-<p>Link to Frontend Repo:(http://google.com)</p>
-<p>Link to Frontend Repo:<a href="https://github.com/Lynch0001/PolicyDiscussionBoardFrontend">[Link]</a></p>
-<p>Link to Backend Repo:<a href="https://github.com/Lynch0001/PolicyDiscussionBoardFrontend">[Link]</a></p>
+<p>Link to Frontend Repo:<a href="https://github.com/Lynch0001">[Link]</a></p>
+<p>Link to Backend Repo:<a href="https://github.com/Lynch0001/exoplanet">[Link]</a></p>
 
 
 ## What's Next
 
-<p>Microservices project</p>
+<p>I'm planning on starting a project to build a simple bookstore app that will allow users to see availible books and reviews and to select/place books in a cart for simulated purchase.  The project is a vehicle to learn about micro services and will include a customer service, a book service, a review service, a store service and an order service.  This will focus on the backend components and NoSQL database technologies.</p>
 
 ### Contact
+LinkedIn: https://www.linkedin.com/in/timothy-j-lynch/
+Email: Lynch0001@gmail.com
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
