@@ -19,7 +19,9 @@ I retired from the Army in June 2019 where I was a strategic plans and policy of
 </p>
 <p>Link to Frontend Repo:<a href="https://github.com/Lynch0001/ProjectTaskManagerFrontEnd">[Link]</a></p>
 <p>Link to Backend Repo:<a href="https://github.com/Lynch0001/ProjectTaskManager">[Link]</a></p>
-
+<p align="center">
+<img width="600" src="https://user-images.githubusercontent.com/35854692/89045856-39c45500-d31a-11ea-9c9c-f3de0f114d90.PNG">
+</p>
 ## Policy Discussion Board
 
 <p>Description: This is a more complete single-page application that allows a user to review and comment on national security issues.  It is also built with Spring, Angular and MySQL and includes basic authentication security, logging or client-side data validation.
