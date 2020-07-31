@@ -27,7 +27,7 @@ I retired from the Army in June 2019 where I was a strategic plans and policy of
 <p>Link to Frontend Repo:<a href="https://github.com/Lynch0001/PolicyDiscussionBoardFrontend">[Link]</a></p>
 <p>Link to Backend Repo:<a href="https://github.com/Lynch0001/PolicyDiscussionBoardFrontend">[Link]</a></p>
 
-<img width="400" src="https://user-images.githubusercontent.com/35854692/89041019-a6d3ec80-d312-11ea-97fc-092001b9546c.png">
+<img width="800" src="https://user-images.githubusercontent.com/35854692/89041019-a6d3ec80-d312-11ea-97fc-092001b9546c.png">
 
 ## ExoPlanet Data Explorer
 
