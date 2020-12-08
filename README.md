@@ -17,8 +17,8 @@ I retired from the Army in June 2019 where I was a strategic plans and policy of
 
 <p>Description: Basic web application that allows a user to manage projects/tasks built with Spring, Angular and MySQL. This was my first effort to integrate frontend, backend, and database components into a functioning application.  I wasn't concerned with security, logging or data validation at this point.
 </p>
-<p>Link to Frontend Repo:<a href="https://github.com/Lynch0001/ProjectTaskManagerFrontEnd">Here</a></p>
-<p>Link to Backend Repo:<a href="https://github.com/Lynch0001/ProjectTaskManager">Here</a></p>
+<p>Link to Frontend Repo: <a href="https://github.com/Lynch0001/ProjectTaskManagerFrontEnd">Here</a></p>
+<p>Link to Backend Repo: <a href="https://github.com/Lynch0001/ProjectTaskManager">Here</a></p>
 <p align="center">
 <img width="600" src="https://user-images.githubusercontent.com/35854692/89047742-ce2fb700-d31c-11ea-8dc7-95ea4f800880.PNG">
 </p>
@@ -27,7 +27,7 @@ I retired from the Army in June 2019 where I was a strategic plans and policy of
 
 <p>Description: This is a more complete single-page application that allows a user to review and comment on national security issues.  It is also built with Spring, Angular and MySQL and includes basic authentication security, logging or client-side data validation.
 </p>
-<p>Link to Repo:<a href="https://github.com/Lynch0001/PolicyDiscussionBoardApp">Here</a></p>
+<p>Link to Repo: <a href="https://github.com/Lynch0001/PolicyDiscussionBoardApp">Here</a></p>
 <p align="center">
 <img width="600" src="https://user-images.githubusercontent.com/35854692/89041019-a6d3ec80-d312-11ea-97fc-092001b9546c.png">
 </p>
@@ -36,7 +36,7 @@ I retired from the Army in June 2019 where I was a strategic plans and policy of
 
 <p>Description: [Still working on this] Web application that allows users to view data fed by a CSV file from the NASA Exoplanet Data Archive(Roughly 4000 planets that have been identified outside of our solar system). It is built with Spring, Angular and PostgreSQL. 
 </p>
-<p>Link to Repo:<a href="https://github.com/Lynch0001/exoplanet">Here</a></p>
+<p>Link to Repo: <a href="https://github.com/Lynch0001/exoplanet">Here</a></p>
 <p align="center">
 <img width="1000" src="https://user-images.githubusercontent.com/35854692/89050448-c4a84e00-d320-11ea-9b8e-0d50bbee69f4.PNG">
 </p>
