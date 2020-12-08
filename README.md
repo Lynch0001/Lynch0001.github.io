@@ -42,7 +42,7 @@ I retired from the Army in June 2019 where I was a strategic plans and policy of
 </p>
 
 ## Book Order Microservice App
-Description: [Still working on this] Web application that allows users to view data fed by a CSV file from the NASA Exoplanet Data Archive(Roughly 4000 planets that have been identified outside of our solar system). It is built with Spring, Angular and PostgreSQL.
+Description: [Still working on this] Web application that allows users to view a mock bookstore catalog and order books. It is built with Spring and Angular and employs multiple databases (MySQL/PostgreSQL/H2/Derby) some implementing Flyway.  The App uses a Eureka server for service discovery and a Zuul Gateway to manage access. It also employs RabbitMQ messaging to alert an order acknowledgement service that an order has been received. The Main service (the catalog service) consumes three services to produce the catalog - a store inventory service, a book service that provides book details, and a mock review service that provides book reviews.
 
 <p>Link to Repo: <a href="https://github.com/Lynch0001/bomms">Here</a></p>
 
