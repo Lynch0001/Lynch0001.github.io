@@ -45,6 +45,10 @@ I retired from the Army in June 2019 where I was a strategic plans and policy of
 Description: [Still working on this] Web application that allows users to view a mock bookstore catalog and order books. It is built with Spring and Angular and employs multiple databases (MySQL/PostgreSQL/H2/Derby) some implementing Flyway.  The App uses a Eureka server for service discovery and a Zuul Gateway to manage access. It also employs RabbitMQ messaging to alert an order acknowledgement service that an order has been received. The Main service (the catalog service) consumes three services to produce the catalog - a store inventory service, a book service that provides book details, and a mock review service that provides book reviews.
 
 <p>Link to Repo: <a href="https://github.com/Lynch0001/bomms">Here</a></p>
+<p align="center">
+<img width="1000" src="https://github.com/Lynch0001/Lynch0001.github.io/blob/master/Capture.PNG">
+</p>
+
 
 ## What's Next
 
