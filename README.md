@@ -46,13 +46,13 @@ Description: [Still working on this] Web application that allows users to view a
 
 <p>Link to Repo: <a href="https://github.com/Lynch0001/bomms">Here</a></p>
 <p align="center">
-<img width="1000" src="https://github.com/Lynch0001/Lynch0001.github.io/blob/master/Capture.PNG">
+<img width="1000" src="https://user-images.githubusercontent.com/35854692/101530447-f03ae500-395f-11eb-8e62-49b8c35ecb16.PNG">
 </p>
 
 
 ## What's Next
 
-<p>I'm planning on starting a project to build a simple bookstore app that will allow users to see availible books and reviews and to select/place books in a cart for simulated purchase.  The project is a vehicle to learn about micro services and will include a customer service, a book service, a review service, a store service and an order service.  This will focus on the backend components and NoSQL database technologies.</p>
+<p>I'm starting to explore . </p>
 
 ## Contact
 <p>LinkedIn: https://www.linkedin.com/in/timothy-j-lynch/</p>
