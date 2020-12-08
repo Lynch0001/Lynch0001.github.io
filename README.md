@@ -22,6 +22,7 @@ I retired from the Army in June 2019 where I was a strategic plans and policy of
 <p align="center">
 <img width="600" src="https://user-images.githubusercontent.com/35854692/89047742-ce2fb700-d31c-11ea-8dc7-95ea4f800880.PNG">
 </p>
+
 ## Policy Discussion Board
 
 <p>Description: This is a more complete single-page application that allows a user to review and comment on national security issues.  It is also built with Spring, Angular and MySQL and includes basic authentication security, logging or client-side data validation.
@@ -31,6 +32,7 @@ I retired from the Army in June 2019 where I was a strategic plans and policy of
 <p align="center">
 <img width="600" src="https://user-images.githubusercontent.com/35854692/89041019-a6d3ec80-d312-11ea-97fc-092001b9546c.png">
 </p>
+
 ## ExoPlanet Data Explorer
 
 <p>Description: [Still working on this] Web application that allows users to view data fed by a CSV file from the NASA Exoplanet Data Archive(Roughly 4000 planets that have been identified outside of our solar system). It is built with Spring, Angular and PostgreSQL. 
@@ -42,11 +44,12 @@ I retired from the Army in June 2019 where I was a strategic plans and policy of
 </p>
 
 ## Book Order Microservice App
+
 Description: [Still working on this] Web application that allows users to view a mock bookstore catalog and order books. It is built with Spring and Angular and employs multiple databases (MySQL/PostgreSQL/H2/Derby) some implementing Flyway.  The App uses a Eureka server for service discovery and a Zuul Gateway to manage access. It also employs RabbitMQ messaging to alert an order acknowledgement service that an order has been received. The Main service (the catalog service) consumes three services to produce the catalog - a store inventory service, a book service that provides book details, and a mock review service that provides book reviews.
 
 <p>Link to Repo: <a href="https://github.com/Lynch0001/bomms">Here</a></p>
 <p align="center">
-<img width="1000" src="https://user-images.githubusercontent.com/35854692/101530447-f03ae500-395f-11eb-8e62-49b8c35ecb16.PNG">
+<img width="1000" src="https://user-images.githubusercontent.com/35854692/101530850-72c3a480-3960-11eb-9220-1b7594c3f646.PNG">
 </p>
 
 
