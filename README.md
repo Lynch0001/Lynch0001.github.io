@@ -41,6 +41,11 @@ I retired from the Army in June 2019 where I was a strategic plans and policy of
 <img width="1000" src="https://user-images.githubusercontent.com/35854692/89050448-c4a84e00-d320-11ea-9b8e-0d50bbee69f4.PNG">
 </p>
 
+## Book Order Microservice App
+Description: [Still working on this] Web application that allows users to view data fed by a CSV file from the NASA Exoplanet Data Archive(Roughly 4000 planets that have been identified outside of our solar system). It is built with Spring, Angular and PostgreSQL.
+
+<p>Link to Repo: <a href="https://github.com/Lynch0001/bomms">Here</a></p>
+
 ## What's Next
 
 <p>I'm planning on starting a project to build a simple bookstore app that will allow users to see availible books and reviews and to select/place books in a cart for simulated purchase.  The project is a vehicle to learn about micro services and will include a customer service, a book service, a review service, a store service and an order service.  This will focus on the backend components and NoSQL database technologies.</p>
