@@ -34,7 +34,7 @@ I retired from the Army in June 2019 where I was a strategic plans and policy of
 
 ## ExoPlanet Data Explorer
 
-<p>Description: [Still working on this] Web application that allows users to view data fed by a CSV file from the NASA Exoplanet Data Archive(Roughly 4000 planets that have been identified outside of our solar system). It is built with Spring, Angular and PostgreSQL. 
+<p>Description: [Still working on this] Web application that allows users to view data fed by a CSV file from the NASA Exoplanet Data Archive(Roughly 4000 planets that have been identified outside of our solar system). It is built with Spring, Angular, PostgreSQL, and some D3.js. 
 </p>
 <p>Link to Repo: <a href="https://github.com/Lynch0001/exoplanet">Here</a></p>
 <p align="center">
