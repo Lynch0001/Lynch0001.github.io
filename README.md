@@ -53,7 +53,7 @@ Description: [Still working on this] Web application that allows users to view a
 
 ## What's Next
 
-<p>I'm working to expand my understanding and use of containers, spring reactive, AWS, unit/integration testing, and the use of Oracle, Microsoft SQL Server, and NoSQL Databases. </p>
+<p>I'm working to expand my understanding and use of containers, spring reactive, AWS, unit/integration testing, the use of Oracle, Microsoft SQL Server, and NoSQL Databases, and using tools like Gradle, GitHub Actions and CircleCI. </p>
 
 ## Contact
 <p>LinkedIn: https://www.linkedin.com/in/timothy-j-lynch/</p>
