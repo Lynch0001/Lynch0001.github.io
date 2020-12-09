@@ -53,7 +53,7 @@ Description: [Still working on this] Web application that allows users to view a
 
 ## What's Next
 
-<p>I'm starting to explore spring reactive and AWS. </p>
+<p>I'm working to expand my understanding and use of containers, spring reactive, and AWS. </p>
 
 ## Contact
 <p>LinkedIn: https://www.linkedin.com/in/timothy-j-lynch/</p>
